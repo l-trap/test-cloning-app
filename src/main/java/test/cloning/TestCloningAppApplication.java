@@ -9,6 +9,7 @@ public class TestCloningAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(TestCloningAppApplication.class, args);
 		System.out.println("Hello World!");
+		System.out.println("Hello World 222222222!");
 	}
 
 }
